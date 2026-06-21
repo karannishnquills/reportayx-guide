@@ -1,2 +1,14 @@
 # reportayx-guide
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
